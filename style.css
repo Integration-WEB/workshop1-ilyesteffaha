@@ -162,6 +162,8 @@ ________________________
 
 .item1{
     background-color: rgb(255, 190, 225);
+    position:relative;
+
 }
 
 .item2{
@@ -212,7 +214,7 @@ ________________________
     height: 20vh;
     width: 90vw;
     margin-bottom: 50px;
-    background-color: var(--primary-100);
+    background-color: var(--primary-900);
 }
 /* Extra small devices (phones, 600px and down) */
 
